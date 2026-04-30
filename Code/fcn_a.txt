@@ -1,6 +1,9 @@
 function output = fcn_a(inputArg1)
 %FCN_A inputArg1
 
-output = inputArg1 + 1;
+// add 1 then times 2
+
+temp = inputArg1 + 1;  
+output = temp * 2;   
 
 end
