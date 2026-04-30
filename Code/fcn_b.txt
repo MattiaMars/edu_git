@@ -1,6 +1,6 @@
-function output = fcn_b(inputArg2)
-%FNC_B inputArg2
+function output = fcn_b(x, y)
+%FNC_B is a wonderful way to multiply the two inputs
 
-output = inputArg2 + 2;
+output = x*y;
 
 end
