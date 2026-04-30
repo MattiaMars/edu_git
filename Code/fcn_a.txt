@@ -1,0 +1,6 @@
+function output = fcn_a(inputArg1)
+%FCN_A inputArg1
+
+output = inputArg1 + 1;
+
+end
